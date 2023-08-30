@@ -17,6 +17,7 @@ Dans les films qui ont été intégrlament tournés en motion capture il y a :
 - Les Aventures de tintin : le secret de la licorne (2011)
 - Monster House (2006)
 - Milo Sur Mars (2011)
+>
     Et plus encore... 
 
 
