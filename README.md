@@ -18,6 +18,13 @@ Dans les films qui ont été intégrlament tournés en motion capture il y a :
 - Monster House (2006)
 - Milo Sur Mars (2011)
 >
-et plus encore ... 
+et plus encore ...
+>
+![monkey image](/image/monkey.jpg)
+>
+Pour ce qui est des jeux vidéos la liste en encore plus longue, mais pour donner un exemple les jeux de sports comme Madden, NHL, fifa, ce sont tout des jeux utilisant la motion capture pour donner du réalisme aux mouvements de chaques joueurs.
+>
+![image motion capture](/image/.jpg)
+>
 
 ## titre 2
