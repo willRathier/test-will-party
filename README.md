@@ -10,14 +10,13 @@ La motion capture ou la capturee de mouvement est une technique d'enregistrement
    Les industries qui utilisent le plus ce type d'enregidtrement c'est le monde du cinema et celui des jeux vidéos.
     ### Quels films ?
     La liste est quand même très longue et je ne pourrais siter tout les films qui ont utilisés cette technique d'enregistrement. 
-    >
+      >
     Dans les films qui ont été intégrlament tournés en motion capture il y a :
-    >
-    - le pôle express (2004)
-    - Les Aventures de tintin : le secret de la licorne (2011)
-    - Monster House (2006)
-    - Milo Sur Mars (2011) 
-    >
+   >
+>- le pôle express (2004)
+>- Les Aventures de tintin : le secret de la licorne (2011)
+>- Monster House (2006)
+>- Milo Sur Mars (2011)
     Et plus encore... 
 
 
