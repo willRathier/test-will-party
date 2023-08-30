@@ -18,7 +18,6 @@ Dans les films qui ont été intégrlament tournés en motion capture il y a :
 - Monster House (2006)
 - Milo Sur Mars (2011)
 >
-    Et plus encore... 
-
+et plus encore ... 
 
 ## titre 2
