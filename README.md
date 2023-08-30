@@ -6,7 +6,7 @@ La motion capture ou la cxapturee de mouvement est une technique d'enregistremen
  test test 
 
    ### Quelle sont les usagés de ce type d'enregistrement ?
-   Les industries qui utilisent le plus ce type d'enregidtrement c'est le monde du cinema et celui des jeux vid.os.
+   Les industries qui utilisent le plus ce type d'enregidtrement c'est le monde du cinema et celui des jeux vidéos.
    
 
 
