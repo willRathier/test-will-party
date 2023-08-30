@@ -24,7 +24,7 @@ et plus encore ...
 >
 Pour ce qui est des jeux vidéos la liste en encore plus longue, mais pour donner un exemple les jeux de sports comme Madden, NHL, fifa, ce sont tout des jeux utilisant la motion capture pour donner du réalisme aux mouvements de chaques joueurs.
 >
-![image motion capture](/image/.jpg)
+![nhl motion capture](/image/nhl.jpg)
 >
 
 ## titre 2
