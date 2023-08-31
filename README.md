@@ -2,10 +2,10 @@
 ![image motion capture](/image/motion_deux_acteurs.jpg)
 ## Qu'est-ce que c'est que la motion capture ?
 >
-La motion capture ou la capturee de mouvement est une technique d'enregistrement permettant de connaitre la position et la rotation d'un objet ou d'une personne pour être ensuite transmettre le résultat dans un logiociel de montage 3d. Grâce a ça, les monteurs peuvent créer un squelette qui peut être intégrrer à une perosnnage déjà créer pour le faire bouger. La technologie est basé sur la kinect pour permettre a l'acteur de créer directement un squellette dans l'application de montage 3D.
+La motion capture ou la capture de mouvement est une technique d'enregistrement permettant de connaître la position et la rotation d'un objet ou d'une personne pour ensuite transmettre le résultat dans un logiociel de montage 3d. Grâce a ça, les monteurs peuvent créer un squelette qui peut être intégrrer à une perosnnage, d'un jeu ou autre, déjà créer pour le faire bouger. La technologie est basé sur la kinect pour permettre a l'acteur de créer directement un squellette dans l'application de montage 3D.
 
    ## Quelle sont les usagés de ce type d'enregistrement ?
-   Les industries qui utilisent le plus ce type d'enregidtrement c'est le monde du cinema et celui des jeux vidéos. Ce sont les princiaples industries qui utilisent cette technique, maispas les seules. C'est aussi un outil de recherche pour la santé et le sport. C'est utilisé pour visualiser et diagnostiquer avec précision les mouvements corporels et les problèmes de santé.
+   Les industries qui utilisent le plus ce type d'enregidtrement, c'est le monde du cinema et celui des jeux vidéos. Ce sont les princiaples industries qui utilisent cette technique, mais pas les seules. C'est aussi un outil de recherche pour la santé et le sport. Cette technologie est utilisé pour visualiser et diagnostiquer avec précision les mouvements corporels et les problèmes de santé.
 >
    ### Exemples de projet cinématographique utilisant cette technique. 
 >
@@ -25,13 +25,13 @@ et plus encore ...
 >
 ### Jeux vidéos
 >
-Pour ce qui est des jeux vidéos la liste est encore plus longue, mais pour donner quelques exemples; les jeux de sports comme Madden, NHL et fifa, sont tous des jeux qui utilisent la motion capture pour donner du réalisme aux mouvements de chaques joueurs.
+Pour ce qui est des jeux vidéos la liste est encore plus longue, mais pour donner quelques exemples; les jeux de sports comme Madden, NHL ou Fifa, sont tous des jeux qui utilisent la motion capture pour donner du réalisme aux mouvements de chaques joueurs.
 >
 ![nhl motion capture](/image/nhl.jpg)
 >
 
 ## Pourquoi utiliser ce type d'enregistrement plustôt que directement l'animer ?
-Alors la principal raison de pourquoi la motion capture est utilié, c'est parce que elle permet de donner un maximum de réalisme aux personnages présent dans la vidéo. Aussi ça permet de perdre moins de temps a animer morcxeaux par morceaux chacun des personnages, car un ssquellete peut être attribuer a plusieurs personnages du jeux, mais il n'y aura pas de différence entre chacun.
+Alors la principal raison pourquoi la motion capture est utilié, c'est parce qu'elle permet de donner un maximum de réalisme aux personnages présent dans la vidéo. Aussi ça permet de perdre moins de temps a animer pièces par mpièces chaques personnages, car le squellete créé peut être attribué a plusieurs personnages du jeux. Sauf qu'il n'y aura pas de différence entre chacun du au même squellete animé.
 >
 ![squellete](/image/squellette.jpg)
 >
