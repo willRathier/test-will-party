@@ -29,3 +29,6 @@ Pour ce qui est des jeux vidéos la liste en encore plus longue, mais pour donne
 
 ## Pourquoi utiliser ce type d'enregistrement plustôt que directement l'animer ?
 Alors la principal raison de pourquoi la motion capture est utilié, c'est parce que elle permet de donner un maximum de réalisme aux personnages présent dans la vidéo. Aussi ça permet de perdre moins de temps a animer morcxeaux par morceaux chacun des personnages, car un ssquellete peut être attribuer a plusieurs personnages du jeux, mais il n'y aura pas de différence entre chacun.
+>
+![squellete](/image/squellette.jpg)
+>
