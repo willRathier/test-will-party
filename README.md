@@ -1,6 +1,6 @@
 # La motion capture
 
-## Qu'est-ce que c'est que la motion capture ?
+# Qu'est-ce que c'est que la motion capture ?
 
 ![image motion capture](/image/motion_deux_acteurs.jpg)
 >
