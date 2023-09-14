@@ -41,3 +41,7 @@ Pour ce qui est du contexte étudiant que je suis, je pourrais dire que la morio
 >
 Sinon, la kinect pourrait aussi être utilisé comme trigger. Dès qu'une personne entre dans le périmètre de la caméra de la kinect une vidéo ou dequoi du genre s'active. Dans ce cas la scène n'a pas d'interaaction avec les utilisateurs, mais est utilisé juste pour detecter un utilisateur. 
 >
+
+# Idée de projet
+mon idéé serait de créer une sorte de jeu pour enfant, le but serait de générer du plaisir au jeunmes en incarant leurs personnages favoris.
+
