@@ -47,3 +47,10 @@ Mon idéé serait de créer une sorte de jeu pour enfant, le but serait de gén�
 
 ![kinect adventure](image/kinect-adventures.jpg)
 
+## Matériel
+- kinect
+- écran
+- ou projecteur
+- si jutilise un projecteur je vais avoir de besoin d'une toie blanche pour la projection
+- un ordinateur
+
