@@ -45,5 +45,5 @@ Sinon, la kinect pourrait aussi être utilisé comme trigger. Dès qu'une person
 # Idée de projet
 Mon idéé serait de créer une sorte de jeu pour enfant, le but serait de générer du plaisir au jeunes en incarant leurs personnages favoris. Le focntionnement serait de avec une kinect, générer un squellette 3D du jeune qui sera devant la camera et il pourra ensuite choisir un personnage de la base de données pour le voir sur l'image et quand il bougera le personnage va bouger en même en reproduisant les mouvements du jeune.
 
-![kinect adventure](/images/kinect-adventures4_1764304b.jpg)
+![kinect adventure](image/kinect-adventures4_1764304b.jpg)
 
