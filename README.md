@@ -54,3 +54,11 @@ Mon idéé serait de créer une sorte de jeu pour enfant, le but serait de gén�
 - si jutilise un projecteur je vais avoir de besoin d'une toie blanche pour la projection
 - un ordinateur
 
+  ## idée de l'espace d'utilisation
+  si j.utilise un projecteur je pourrais utiliser le cyclo du grand studio pour permettre une meilleur intégration et je pense que les jeunes vont penser que c'est plus vrai
+
+  sinon je pense que le grand studio va etre le meilleur endroit pou faire ce projet, car c'est la place je pense qui a le plus d'esapce pour bouger. Dehors pourrait être une option, mais vu que nous allons déployer pendant l'hiver le froid pourrait être un trop grand enjeu.
+
+  ## procédure
+  
+
