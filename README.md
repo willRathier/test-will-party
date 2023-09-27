@@ -42,7 +42,7 @@ Pour ce qui est du contexte étudiant que je suis, je pourrais dire que la morio
 Sinon, la kinect pourrait aussi être utilisé comme trigger. Dès qu'une personne entre dans le périmètre de la caméra de la kinect une vidéo ou dequoi du genre s'active. Dans ce cas la scène n'a pas d'interaaction avec les utilisateurs, mais est utilisé juste pour detecter un utilisateur. 
 >
 
-## Idée de projet
+# Idée de projet
 Mon idéé serait de créer une sorte de jeu pour enfant, le but serait de générer du plaisir au jeunes en incarant leurs personnages favoris. Le focntionnement serait de avec une kinect, générer un squellette 3D du jeune qui sera devant la camera et il pourra ensuite choisir un personnage de la base de données pour le voir sur l'image et quand il bougera le personnage va bouger en même en reproduisant les mouvements du jeune.
 
 ![kinect adventure](image/kinect-adventures.jpg)
@@ -60,11 +60,11 @@ Mon idéé serait de créer une sorte de jeu pour enfant, le but serait de gén�
   sinon je pense que le grand studio va etre le meilleur endroit pou faire ce projet, car c'est la place je pense qui a le plus d'esapce pour bouger. Dehors pourrait être une option, mais vu que nous allons déployer pendant l'hiver le froid pourrait être un trop grand enjeu.
 
 ## procédure
-- L,enfant devra d'abord se mettre devant la kinect pour être détecter (une écran titre sera deja en cour pour attirer l'oeil)
+- L'enfant devra d'abord se mettre devant la kinect pour être détecter (une écran titre sera deja en cour pour attirer l'oeil)
 - une fois l'enfant detecter, une musique se déclenchera
 - au moment de la detection, un squellete 3d se crée automatiquement
 - ensuite lenfant aura une interface qui pourra choisir le personnage qu'il voudra interprêter
-- le jeu pourra commencer, le personnage 3d choisi bougera comme l'enfant
+- le jeu pourra commencer, le personnage 3D choisi bougera comme l'enfant
 
  
   
