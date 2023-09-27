@@ -66,6 +66,6 @@ Mon idéé serait de créer une sorte de jeu pour enfant, le but serait de gén�
 - ensuite lenfant aura une interface qui pourra choisir le personnage qu'il voudra interprêter
 - le jeu pourra commencer, le personnage 3D choisi bougera comme l'enfant
 
- 
-  
+### le but de cette installation
+le but c'est bien sur de mettre un sourire aux lèvres des enfants,  mais aussi de pouvoir apporter la technologie 3d accessible à tous même les plus jeunes.
 
