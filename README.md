@@ -81,3 +81,9 @@ le but c'est bien sur de mettre un sourire aux lèvres des enfants,  mais aussi 
 Sinon pour que mon projet cible plus de perosnnes je pourrais d'une façon, encore inconnu, que l'utilisateur crée son propre perosnange un peu comme la facon de bitmoji ou de personnages xbox.  
 
 ![avatar xbox](image/xbox-avatar.jpg)
+
+## Défis
+- le temps
+- faire fonctionner les logiciels encore inconnu
+- devoir faire et respecter un budget $
+- que tout les logiciels fonctionnent bien tout ensemble même si je ne suis pas présent
