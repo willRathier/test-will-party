@@ -69,3 +69,4 @@ Mon idéé serait de créer une sorte de jeu pour enfant, le but serait de gén�
 ### le but de cette installation
 le but c'est bien sur de mettre un sourire aux lèvres des enfants,  mais aussi de pouvoir apporter la technologie 3d accessible à tous même les plus jeunes.
 
+## Disposition des matériaux
