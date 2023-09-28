@@ -76,3 +76,6 @@ le but c'est bien sur de mettre un sourire aux lèvres des enfants,  mais aussi 
 
 ## Disposition des matériaux
 ![disposition](image/disposition_materiaux.JPG)
+
+## idée de plus
+Sinon pour que mon projet cible plus de perosnnes je pourrais d'une façon, encore inconnu, que l'utilisateur crée son propre perosnange un peu comme la facon de bitmoji ou de personnages xbox.  
