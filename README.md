@@ -86,4 +86,5 @@ Sinon pour que mon projet cible plus de perosnnes je pourrais d'une façon, enco
 - le temps
 - faire fonctionner les logiciels encore inconnu
 - devoir faire et respecter un budget $
-- que tout les logiciels fonctionnent bien tout ensemble même si je ne suis pas présent
+- que tout les logiciels fonctionnent bien tout ensemble même si je ne suis pas présent.
+- faire en sorte que le projet soit bien mit de l'avant pour que les utilisateurs veulent l'essayer.
