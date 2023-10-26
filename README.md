@@ -90,6 +90,21 @@ Sinon pour que mon projet cible plus de perosnnes je pourrais d'une façon, enco
 - faire en sorte que le projet soit bien mit de l'avant pour que les utilisateurs veulent l'essayer.
 
 # Idée de projet - Ça passe ou ça casse
+
 ## description du projet
 L'idée ici est de créer un jeu inspiré de l'émission ça passe ou ça casse. DOnc le participant devra se tenir debout devant une camera (kinect), et un module apparaîtra avec une forme spécial. le but c'est de passer dans le trou blanc du module.
 ![inspiration](image/hole_inb_the_wall.jpg)
+
+## Matériel
+- kinect
+- écran
+- ou projecteur
+- si jutilise un projecteur je vais avoir de besoin d'une toie blanche pour la projection, ou mur completement blanc.
+- un ordinateur
+- haut parleur
+
+- ## Défis
+- le temps
+- faire fonctionner les logiciels encore inconnu
+- que tout les logiciels fonctionnent bien tout ensemble même si je ne suis pas présent.
+- faire en sorte que le projet soit bien mit de l'avant pour que les utilisateurs veulent l'essayer.
