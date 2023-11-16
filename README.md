@@ -116,7 +116,9 @@ Mon projet était de faire une sirte de jeux interactif comme le jeu télévisé
 Je m'occupe surtout de la gestion des périfériques. Mon prototype consiste à bine installé la kinect et aller chercher les bonnes valeurs. 
 
 ## Test
-Ce que j'ai voulu tester c'est de voir jusqu'ou je pouvais aller avec la kinect de la xbox one. La distance que je peux atteindre, la detection des mouvements et l'arrière plan. 
+Ce que j'ai voulu tester c'est de voir jusqu'ou je pouvais aller avec la kinect de la xbox one. La distance que je peux atteindre, la detection des mouvements et l'arrière plan.
+
+![VALEURS](image/VALEURS_KINECT.jpg)
 
 ## Comment
 J'ai connecté une kinect xbox one au logiciel Kinect Studio V2.0, ensuite j'ai pus mettre l'image de la kinect sur touchdesigner pour pouvoir aller récupérer les données de chaque membres du corps.
