@@ -108,3 +108,21 @@ L'idée ici est de créer un jeu inspiré de l'émission ça passe ou ça casse.
 - faire fonctionner les logiciels encore inconnu
 - que tout les logiciels fonctionnent bien tout ensemble même si je ne suis pas présent.
 - faire en sorte que le projet soit bien mit de l'avant pour que les utilisateurs veulent l'essayer.
+
+# Prototype
+Mon projet était de faire une sirte de jeux interactif comme le jeu télévisé ça passe ou ça casse.
+
+## Quelle partie du projet
+Je m'occupe surtout de la gestion des périfériques. Mon prototype consiste à bine installé la kinect et aller chercher les bonnes valeurs. 
+
+## Test
+Ce que j'ai voulu tester c'est de voir jusqu'ou je pouvais aller avec la kinect de la xbox one. La distance que je peux atteindre, la detection des mouvements et l'arrière plan. 
+
+## Comment
+J'ai connecté une kinect xbox one au logiciel Kinect Studio V2.0, ensuite j'ai pus mettre l'image de la kinect sur touchdesigner pour pouvoir aller récupérer les données de chaque membres du corps.
+
+## Résultat
+J'ai constaté qu'il y a avait beaucoup de valeurs générer par un corps et un mouvement. Par contrre je n,mai pas encore trouvé la limite exact de l'arrière-plan de la kinect pour savoir si je dois avoir un fond déja générer que ce soit en virtuelle ou un mur dans le réel.
+
+## Conclusion
+La kinect est belle et bien la bonne technologie a utilisé pour mon projet masi reste a déterminer la question de l'arrière-plan à l'emplacement où je vais avoir l'installation final. 
